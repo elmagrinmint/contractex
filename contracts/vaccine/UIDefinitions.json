@@ -1,0 +1,32 @@
+{
+    "ipfsRequiredFields": [],
+  
+    "ipfsOptionalFields": [],
+  
+    "contractRequiredFields": ["vName", "param2", "doses"],
+  
+    "contractOptionalFields": [],
+  
+    "fileFields": [],
+  
+    "dateFields": [],
+  
+    "textFields": [],
+  
+    "selectFields": {
+    },
+  
+    "knownWalletSelectFields": ["param2"],
+  
+    "roleRegistrySelectFields": [],
+  
+    "subItemActions": [],
+  
+    "contractActions": [],
+  
+    "ipfsOptionalFieldsForMethod": {},
+    "ipfsRequiredFieldsForMethod": {},
+  
+    "listFields": []
+  }
+  
